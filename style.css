@@ -1,0 +1,378 @@
+*{
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+}
+
+.display{
+
+    position: relative;
+    width: 430px;
+    height: 932px;
+
+    background: rgba(252, 222, 222, 0.69) ; 
+}
+
+.retan_tras{
+    
+
+    position: absolute;
+    width: 430px;
+    height: 223px;
+    top: 0px;
+
+    background: #eec0b0;
+
+}
+
+.titulo{
+    
+
+    position: absolute;
+    width: 97px;
+    height: 9px;
+    left: 150px;
+    top: 60px;
+
+    font-family: 'Roboto Flex';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    
+
+    color: #000000;
+
+
+}
+
+
+.info{
+
+
+    position: absolute;
+    width: 370px;
+    height: 885px;
+    left: 31px;
+    top: 20px;
+
+    background: #FFFFFF;
+    border-radius: 18px;
+
+
+}
+
+
+.divisor1{
+
+    
+
+    position: absolute;
+    width: 304.03px;
+    height: 1.27px;
+    left: 43px;
+    top: 90.63px;
+
+    background: #FFCBCB;
+
+    
+
+}
+
+
+.ditto{
+
+    position: absolute;
+    left: 134px;
+    top: 100px;
+
+    
+}
+
+
+.nome_ditto{
+
+    position: absolute;
+    left: 170px;
+    top: 208.35px;
+
+    font-family: 'Roboto Flex';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+
+    color: #FFB1B1;
+
+}
+
+.divisor2{
+    position: absolute;
+    width: 304.03px;
+    height: 1.27px;
+    left: 43px;
+    top: 213px;
+
+    background: #FFCBCB;
+}
+
+.seta1 {
+
+    
+    position: absolute;
+    left: 267.43px;
+    top: 144.1px;
+    
+
+}
+
+
+
+
+.divisor3
+{
+
+    position: absolute;
+    width: 304.03px;
+    height: 1.27px;
+    left: 43px;
+    top: 245.95px;
+
+    background: #FFCBCB; }
+
+
+.divisor4 {
+
+    position: absolute;
+    width: 304.03px;
+    height: 1.27px;
+    left: 43px;
+    top: 365.45px;
+
+    background: #FFCBCB;
+}
+
+
+.nome_chande{
+
+    position: absolute;
+    left: 150px;
+    top: 365.50px;
+
+    font-family: 'Roboto Flex';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+
+    color: #FFB1B1;
+
+}
+
+.chande{
+
+    position: absolute;
+    left: 134px;
+    top: 248px;
+
+}
+
+.seta2{
+
+    position: absolute;
+    left: 267.43px;
+    top: 299.92px;
+
+}
+
+
+
+
+
+.divisor5 {
+
+position: absolute;
+width: 304.03px;
+height: 1.27px;
+left: 43px;
+top: 400px;
+
+background: #FFCBCB;
+
+}
+
+.divisor6{
+
+position: absolute;
+width: 304.03px;
+height: 1.27px;
+left: 43px;
+top: 528.57px;
+
+background: #FFCBCB;
+
+}
+
+.tinka{
+
+position: absolute;
+left: 118px;
+top: 418px;
+
+}
+
+
+.seta3{
+
+position: absolute;
+left: 267.43px;
+top: 463.64px;
+
+}
+
+
+.nome_tinka{
+
+position: absolute;
+left: 158px;
+top: 525px;
+
+font-family: 'Roboto Flex';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 14px;
+
+color: #FFB1B1;
+
+}
+
+
+
+
+
+.divisor7{
+
+position: absolute;
+width: 304.03px;
+height: 1.27px;
+left: 43px;
+top: 559.12px;
+
+background: #FFCBCB;
+
+}
+
+.divisor8{
+
+position: absolute;
+width: 304.03px;
+height: 1.27px;
+left: 43px;
+top: 677.52px;
+
+background: #FFCBCB;
+
+}
+
+.jolt{
+
+position: absolute;
+left: 135px;
+top: 565px;
+
+}
+
+
+.seta4{
+
+position: absolute;
+left: 267.43px;
+top: 612.59px;
+
+}
+
+.nome_jolt{
+
+position: absolute;
+left: 165px;
+top: 673px;
+
+font-family: 'Roboto Flex';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 14px;
+
+color: #FFB1B1;
+
+}
+
+
+
+
+
+.divisor9{
+
+position: absolute;
+width: 304.03px;
+height: 1.27px;
+left: 43px;
+top: 710px;
+
+background: #FFCBCB;
+
+}
+
+.divisor10{
+
+position: absolute;
+width: 304.03px;
+height: 1.27px;
+left: 43px;
+top: 825px;
+
+background: #FFCBCB;
+
+}
+
+.buiz{
+
+position: absolute;
+left: 129px;
+top: 720px;
+
+}
+
+
+.seta5{
+
+position: absolute;
+left: 266.47px;
+top: 761px;
+
+}
+
+.nome_buiz{
+
+position: absolute;
+left: 165px;
+top: 821px;
+
+font-family: 'Roboto Flex';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 14px;
+
+color: #FFB1B1;
+
+}
+
+.seta_pag_aux{
+        position: absolute;
+        left: 36px;
+        top: 35px;
+
+
+
+}
