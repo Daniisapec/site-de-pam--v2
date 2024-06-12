@@ -1,0 +1,162 @@
+*{
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+}
+
+.display{
+
+    position: relative;
+    width: 430px;
+    height: 932px;
+
+    background: rgba(252, 222, 222, 0.69) ; 
+}
+
+.retan_tras{
+    
+
+    position: absolute;
+    width: 430px;
+    height: 223px;
+    top: 0px;
+
+    background: #eec0b0;
+
+}
+
+.info{
+
+
+    position: absolute;
+    width: 370px;
+    height: 885px;
+    left: 31px;
+    top: 20px;
+
+    background: #FFFFFF;
+    border-radius: 18px;
+
+
+}
+
+.seta{
+    
+
+        position: absolute;
+        width: 56px;
+        height: 39px;
+        left: 36px;
+        top: 30px;
+
+
+}
+
+.titulo{
+    position: absolute;
+    width: 97px;
+    height: 9px;
+    left: 150px;
+    top: 70px;
+
+    font-family: 'Roboto Flex';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    
+
+    color: #ff9d9d;
+}
+
+.display_img{
+
+
+    position: absolute;
+    width: 96px;
+    height: 99px;
+    left: 34px;
+    top: 140px;
+
+
+
+}
+
+
+
+
+/*
+.grupo2{
+    display: flex;
+    align-content: center;
+
+    background-image: url("/assents/ditto_status.PNG");
+} */
+
+.status_titulo{
+    
+
+position: absolute;
+width: 80px;
+height: 14px;
+left: 150px;
+top: 350px;
+
+font-family: 'Roboto Flex';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 14px;
+
+
+color: #FFB1B1;
+
+
+}
+
+.grupo3 h1{
+    position: absolute;
+    width: 800px;
+    height: 14px;
+    left: 134px;
+    top: 560px;
+
+    font-family: 'Roboto Flex';
+    font-style: normal;
+    font-weight: 250;
+    font-size: 12px;
+    
+
+
+        color: #FFB1B1;
+}
+
+        .grupo3 p{
+            position: absolute;
+            width: 800px;
+            height: 14px;
+            left: 38px;
+            top: 620px;
+        
+            font-family: 'Roboto Flex';
+            font-style: normal;
+            font-weight: 250;
+            font-size: 15px;
+            
+        
+        
+                color: #FFB1B1;
+
+
+        }
+
+    footer{
+       
+
+    position: absolute;
+    width: 106px;
+    height: 86px;
+    left: 304px;
+    top: 845px;
+
+
+    }
