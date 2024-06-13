@@ -1,0 +1,36 @@
+url imagens
+
+seta - https://cdn4.iconfinder.com/data/icons/navigation-40/24/back-1-256.png
+
+ditto:
+
+https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/132.png
+
+https://img.pokemondb.net/sprites/sun-moon/shiny/1x/ditto.png
+
+https://img.pokemondb.net/sprites/black-white/normal/ditto.png
+
+chandelure
+
+https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/609.png
+
+https://img.pokemondb.net/sprites/black-white/normal/chandelure.png
+
+https://img.pokemondb.net/sprites/scarlet-violet/normal/1x/chandelure.png
+
+tinkaton
+
+https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/detail/959.png
+
+https://preview.redd.it/v45u47vrs8bb1.png?auto=webp&s=190c80f7a23797b7cd0936fb013b4746a8d83846
+
+https://img.pokemondb.net/sprites/scarlet-violet/normal/1x/tinkaton.png
+
+Joltik
+
+https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/595.png
+
+https://img.pokemondb.net/sprites/scarlet-violet/normal/1x/joltik.png
+
+https://img.pokemondb.net/sprites/x-y/normal/joltik.png
+

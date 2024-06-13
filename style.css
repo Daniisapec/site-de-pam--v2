@@ -20,7 +20,7 @@
     width: 430px;
     height: 223px;
     top: 0px;
-
+    opacity: 15%;
     background: #eec0b0;
 
 }
@@ -32,7 +32,7 @@
     width: 97px;
     height: 9px;
     left: 150px;
-    top: 60px;
+    top: 45px;
 
     font-family: 'Roboto Flex';
     font-style: normal;
@@ -40,12 +40,26 @@
     font-size: 12px;
     
 
-    color: #000000;
+    color: #ff9d9d;
 
 
 }
 
+.subtitulo{
+    position: absolute;
+    width: 97px;
+    height: 9px;
+    left: 150px;
+    top: 80px;
 
+    font-family: 'Roboto Flex';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10px;
+    
+
+    color: rgb(236, 173, 173);
+}
 .info{
 
 
@@ -93,7 +107,7 @@
 
     position: absolute;
     left: 170px;
-    top: 208.35px;
+    top: 224px;
 
     font-family: 'Roboto Flex';
     font-style: normal;
@@ -156,7 +170,7 @@
 
     position: absolute;
     left: 150px;
-    top: 365.50px;
+    top: 376px;
 
     font-family: 'Roboto Flex';
     font-style: normal;
@@ -234,7 +248,7 @@ top: 463.64px;
 
 position: absolute;
 left: 158px;
-top: 525px;
+top: 537px;
 
 font-family: 'Roboto Flex';
 font-style: normal;
@@ -295,7 +309,7 @@ top: 612.59px;
 
 position: absolute;
 left: 165px;
-top: 673px;
+top: 685px;
 
 font-family: 'Roboto Flex';
 font-style: normal;
@@ -311,68 +325,3 @@ color: #FFB1B1;
 
 
 
-.divisor9{
-
-position: absolute;
-width: 304.03px;
-height: 1.27px;
-left: 43px;
-top: 710px;
-
-background: #FFCBCB;
-
-}
-
-.divisor10{
-
-position: absolute;
-width: 304.03px;
-height: 1.27px;
-left: 43px;
-top: 825px;
-
-background: #FFCBCB;
-
-}
-
-.buiz{
-
-position: absolute;
-left: 129px;
-top: 720px;
-
-}
-
-
-.seta5{
-
-position: absolute;
-left: 266.47px;
-top: 761px;
-
-}
-
-.nome_buiz{
-
-position: absolute;
-left: 165px;
-top: 821px;
-
-font-family: 'Roboto Flex';
-font-style: normal;
-font-weight: 400;
-font-size: 12px;
-line-height: 14px;
-
-color: #FFB1B1;
-
-}
-
-.seta_pag_aux{
-        position: absolute;
-        left: 36px;
-        top: 35px;
-
-
-
-}
